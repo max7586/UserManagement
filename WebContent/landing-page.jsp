@@ -36,19 +36,7 @@
 				aria-expanded="false" aria-label="Toggle navigation">
 				Menu <i class="fas fa-bars"></i>
 			</button>
-			<div class="collapse navbar-collapse" id="navbarResponsive">
-				<ul class="navbar-nav ms-auto">
-					<li class="nav-item mx-0 mx-lg-1"><a
-						class="nav-link py-3 px-0 px-lg-3 rounded" href="login.jsp">Login</a></li>
-					<li class="nav-item mx-0 mx-lg-1"><a
-						class="nav-link py-3 px-0 px-lg-3 rounded" href="registration.jsp">Ragistration</a></li>
-						<li class="nav-item mx-0 mx-lg-1"><a
-						class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
-						
-					
-					
-				</ul>
-			</div>
+			
 		</div>
 	</nav>
 	<!-- Masthead-->
@@ -69,6 +57,42 @@
 			</div>
 			<!-- Masthead Subheading-->
 			
+				
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ms-auto">
+					<li class="nav-item mx-0 mx-lg-1"><a
+						class="nav-link py-3 px-0 px-lg-3 rounded" href="login.jsp">Login</a></li>
+					<li class="nav-item mx-0 mx-lg-1"><a
+						class="nav-link py-3 px-0 px-lg-3 rounded" href="registration.jsp">Ragistration</a></li>
+						<li class="nav-item mx-0 mx-lg-1"><a
+						class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
+						
+					
+					
+				</ul>
+			</div>
+
+			<div class="row justify-content-center">
+
+				<div class="col-md-6 col-lg-4 mb-5">
+					<a class="btn btn-xl btn-outline-light" href="#about">About </a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-5">
+					<a class="btn btn-xl btn-outline-light" href="login.jsp">Login
+					</a>
+				</div>
+				<div class="col-md-6 col-lg-4 mb-5">
+					<a class="btn btn-xl btn-outline-light" href="registration.jsp">Registration
+					</a>
+				</div>
+
+			</div>
+
+
+
+
+
+
 		</div>
 	</header>
 	<!-- Portfolio Section-->
@@ -154,7 +178,7 @@
 			<div class="row">
 				<div class="col-lg-4 ms-auto">
 					<p class="lead">User management is a user managing application. It's a JAVA dynamic webapp. This application 
-					can run using JSP + Servlet + JDBC + MySQL.</p>
+					build using JSP + Servlet + JDBC + MySQL.</p>
 				</div>
 				<div class="col-lg-4 me-auto">
 					<p class="lead">To use this application user need to registration then login to the application. 
