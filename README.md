@@ -19,6 +19,7 @@
     - [Add user page where user can add user.](#add-user-page-where-user-can-add-user)
     - [Register page where the users can register.](#register-page-where-the-users-can-register)
     - [Login page where the users can login to use this application.](#login-page-where-the-users-can-login-to-use-this-application)
+  - [How to run this project](#how-to-run-this-project)
   - [Built with](#built-with)
   - [Development](#development)
 
@@ -75,7 +76,7 @@ Desktop view | Mobile view
 ### Add user page where user can add user.
 Desktop view | Mobile view
 ------------- | -------------
-<img src="WebContent/images/add-user.png" alt="" width="100%" /> | <img src="WebContent/images/mobile-add-user.png" alt="" width="60%" />
+<img src="WebContent/images/add-new-user.png" alt="" width="100%" /> | <img src="WebContent/images/mobile-add-new-user.png" alt="" width="45%" />
 
 
 ### Register page where the users can register.
@@ -90,7 +91,8 @@ Desktop view | Mobile view
 
 
 
-
+## How to run this project
+It's very simple to start the project. Just need to add corosponding table to sql data base. and start in tomcat server.
 
 
 
